@@ -4,7 +4,7 @@
 <h2>Learner</h2>
 
 <p>Anirudh</p>
-<p>Siddhi</p>
+<p>Siddhi Bhong</p>
 <p>Alisha</p>
 
 
