@@ -3,7 +3,7 @@
 
 <h2>Learner</h2>
 
-<p>Anirudh</p>
+<p>Anirudh Diware</p>
 <p>Siddhi Bhong</p>
 <p>Alisha</p>
 
